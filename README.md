@@ -17,8 +17,8 @@ Time-series forecasting of S&P 500 (2000–2023) using R & ARIMA. Preprocessing,
 Manual **ARIMA(1,0,1)** offered the best balance of fit and simplicity on returns, with slightly better residual performance than the auto model.
 
 ## Files
-- **Code:** [`code/sp500_arima.R`](code/sp500_arima.R)  
-- **Notebook (run output + visuals):** [`notebooks/SP500_ARIMA_Notebook.pdf`](notebooks/SP500_ARIMA_Notebook.pdf)  
-- **Report:** [`report/SP500_ARIMA_Report.pdf`](report/SP500_ARIMA_Report.pdf)
+- **Code:** [`code/sp500_arima.R`](sp500_arima.R)  
+- **Notebook (run output + visuals):** [`notebooks/SP500_ARIMA_Notebook.pdf`](SP500_ARIMA_Notebook.pdf)  
+- **Report:** [`report/SP500_ARIMA_Report.pdf`](SP500_ARIMA_Report.pdf)
 
 > Note: Script pulls public data at run time; no proprietary data stored.
